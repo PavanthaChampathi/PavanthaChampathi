@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senath112)](https://github.com/PavanthaChampathi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanthaChampathi)](https://github.com/PavanthaChampathi)
 
 # 🚀 Pavantha's Projects 🚀
 
