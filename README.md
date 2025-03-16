@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senath112)](https://github.com/PavanthaChampathi)
+
 # 🚀 Pavantha's Projects 🚀
 
 Hey there! I’m Pavantha, a 9th-grade student with a passion for mechatronics, robotics, and automation. Welcome to my GitHub! 😄
