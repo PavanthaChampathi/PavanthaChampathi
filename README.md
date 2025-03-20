@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Pavantha Champathi
 
 ## 🚀 About Me
+I'm the Owner & CEO of **[Future Innovations LK](https://github.com/Future-Innovations-LK)** 💡, working on cutting-edge R&D, 3D printing, and robotics projects.
 I'm a passionate developer interested in R&D, 3D printing, robotics, and web development. I enjoy working on innovative projects and building solutions that make a difference.
 
 ## 🔧 Technologies & Tools
@@ -16,8 +17,10 @@ I'm a passionate developer interested in R&D, 3D printing, robotics, and web dev
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanthaChampathi&show_icons=true&theme=dark)
 
 ## 📌 Projects
-🔹 **[DeathDrill-LK](https://github.com/PavanthaChampathi/DeathDrill-LK)** - My battle bot project 🤖⚡  
-🔹 **[Future Innovations LK](https://github.com/PavanthaChampathi)** - Showcasing my R&D and 3D printing work
+🔹 **[Future Innovations LK](https://github.com/Future-Innovations-LK)** - Showcasing my R&D and 3D printing work
+🔹 **Innovative 3D Printing Solutions** - Developing advanced multi-material printing setups
+🔹 **Custom Robotics & Automation** - Building AI-driven automation projects
+🔹 **Next-Gen Web Applications** - Crafting powerful web experiences with React & ASP.NET
 
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://linkedin.com/in/pavantha-champathi-78a975289)
@@ -27,3 +30,4 @@ I'm a passionate developer interested in R&D, 3D printing, robotics, and web dev
 - 📘 [Facebook](https://web.facebook.com/pavanthachampathi/)
 
 💡 Always learning and building something new! 🚀
+
